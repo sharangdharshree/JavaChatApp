@@ -24,14 +24,12 @@
 - Design the dashboard screen using Swing and AWT components.<br>
 - Provide options for users to log in, register, and access the chat functionality.<br>
 - Link the login and registration functionality to the appropriate database operations.<br><br>
-<img width="801" alt="Screenshot 2023-06-29 at 2 30 48 PM" src="https://github.com/king4404/king4404/assets/117922914/3ceb03fd-42e0-4ae5-b72e-15975c2cad31"> <br><br>
 
 
 # ***Chat Interface:***
 - The chat interface is also designed using Swing and AWT components created with the help of Window Builder.<br>
 - It includes features like a text input field, and a chat message display area.<br>
 - Users can enter text messages in the input field and send them to the chat room.<br><br>
-<img width="700" alt="Screenshot 2023-06-29 at 2 32 46 PM" src="https://github.com/king4404/king4404/assets/117922914/8bcd7f21-2c25-4b70-bc39-362a0dcfe5ed"> <br><br>
 
 
 # ***Set up the MySQL Database:***
