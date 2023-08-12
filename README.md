@@ -53,13 +53,13 @@
 - Allow users to modify their username, password, or any other relevant information.<br>
 - Implement appropriate validation and authentication checks before updating the user details in the MySQL database.<br>
 - Update the user interface to reflect the changes in real time after the user updates their details.<br><br>
-<img width="749" alt="Screenshot 2023-06-26 at 7 31 57 PM" src="https://github.com/king4404/king4404/assets/117922914/3bad90d8-db0a-462d-b4d9-c9fc8b64fe21"> <br><br>
+<br>
 
 
 # ***Messaging:***
 - When a user sends a message, it is displayed in the chat message display area and broadcast to all online users.<br>
 - Received messages are retrieved from the MySQL database and displayed in the chat message area for each user.<br><br>
-<img width="1400" alt="Screenshot 2023-06-29 at 2 38 00 PM" src="https://github.com/king4404/king4404/assets/117922914/5be2220f-a45c-46be-b6ae-0843287ac386"> <br><br>
+<br>
 
 
 # ***Implement the Socket Programming and Server Socket:***
